@@ -1,0 +1,16 @@
+C:\Users\chinnajee\dotnet1\bin\Debug\net5.0\dotnet1.exe
+C:\Users\chinnajee\dotnet1\bin\Debug\net5.0\dotnet1.deps.json
+C:\Users\chinnajee\dotnet1\bin\Debug\net5.0\dotnet1.runtimeconfig.json
+C:\Users\chinnajee\dotnet1\bin\Debug\net5.0\dotnet1.runtimeconfig.dev.json
+C:\Users\chinnajee\dotnet1\bin\Debug\net5.0\dotnet1.dll
+C:\Users\chinnajee\dotnet1\bin\Debug\net5.0\ref\dotnet1.dll
+C:\Users\chinnajee\dotnet1\bin\Debug\net5.0\dotnet1.pdb
+C:\Users\chinnajee\dotnet1\obj\Debug\net5.0\dotnet1.csprojAssemblyReference.cache
+C:\Users\chinnajee\dotnet1\obj\Debug\net5.0\dotnet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chinnajee\dotnet1\obj\Debug\net5.0\dotnet1.AssemblyInfoInputs.cache
+C:\Users\chinnajee\dotnet1\obj\Debug\net5.0\dotnet1.AssemblyInfo.cs
+C:\Users\chinnajee\dotnet1\obj\Debug\net5.0\dotnet1.csproj.CoreCompileInputs.cache
+C:\Users\chinnajee\dotnet1\obj\Debug\net5.0\dotnet1.dll
+C:\Users\chinnajee\dotnet1\obj\Debug\net5.0\ref\dotnet1.dll
+C:\Users\chinnajee\dotnet1\obj\Debug\net5.0\dotnet1.pdb
+C:\Users\chinnajee\dotnet1\obj\Debug\net5.0\dotnet1.genruntimeconfig.cache
